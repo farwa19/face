@@ -1,5 +1,8 @@
-deepface
-face_recognition
-numpy
-Pillow
-streamlit
+streamlit>=1.25.0
+face-recognition>=1.3.0
+dlib>=19.24.0
+numpy>=1.21.0
+Pillow>=8.0.0
+fire>=0.7.0
+opencv-python>=4.5.0
+scipy>=1.7.0
